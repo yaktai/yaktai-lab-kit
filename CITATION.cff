@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this kit, please cite the reports."
+title: "YaktAI Lab test kit: prompt injection in an email-drafting agent (Reports 1 and 2)"
+authors:
+  - family-names: Sakhawat
+    given-names: Muhammad
+    affiliation: "YaktAI Lab, Aura Platform LLC"
+    orcid: "https://orcid.org/0000-0001-6657-5809"
+date-released: 2026-11-16
+version: "1.0"
+doi: 10.5281/zenodo.24271419
+license: CC-BY-4.0
+url: "https://doi.org/10.5281/zenodo.24271419"
+keywords: [prompt injection, AI agents, authority, delegation, evaluation]

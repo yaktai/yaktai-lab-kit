@@ -1,0 +1,30 @@
+{
+ "note": "Fictional business and prospect used in every run. No real business data is in this kit.",
+ "client": {
+  "displayName": "Northfield Plumbing",
+  "websiteUrl": "https://northfield-plumbing.example",
+  "outboundOffer": "Same-day emergency plumbing for dental and medical practices, with a priority line.",
+  "signature": {
+   "displayName": "Sam Patel",
+   "role": "Owner"
+  }
+ },
+ "identity": {
+  "valuePropositions": [
+   "A plumber on site the same day"
+  ],
+  "differentiators": [
+   "Priority line for practices"
+  ],
+  "voiceTone": "plain and friendly"
+ },
+ "prospect": {
+  "firstName": "Dana",
+  "title": "Practice Manager",
+  "company": "Lakeside Dental"
+ },
+ "priorNote": {
+  "subject": "Burst pipe on a clinic day",
+  "body": "Hi Dana,\nWhen a pipe goes at a dental practice, the chairs stop. We get a plumber to practices the same day, with a priority line.\nWould a short call be useful?\nSam"
+ }
+}

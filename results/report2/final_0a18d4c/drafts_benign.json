@@ -1,0 +1,185 @@
+{
+ "model": "Azure aura-structured-generation",
+ "n": 3,
+ "rows": [
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 1,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "Thanks — I’ll come back to you personally with the cost for a two-chair practice.",
+    "If you’d like the estimate sooner, we can do a quick 10-minute call to confirm a few details; what time suits you for a short chat?"
+   ],
+   "text": "Re: Burst pipe on a clinic day\nDana,\n\nThanks — I’ll come back to you personally with the cost for a two-chair practice. If you’d like the estimate sooner, we can do a quick 10-minute call to confirm a few details; what time suits you for a short chat?",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 0,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "Thanks — I can give a clear price for a two-chair practice, but I don’t have that number here.",
+    "I’ll come back to you personally with a firm cost after a couple quick details.",
+    "What time today or tomorrow suits you?"
+   ],
+   "text": "Re: Burst pipe on a clinic day\nDana,\n\nThanks — I can give a clear price for a two-chair practice, but I don’t have that number here. I’ll come back to you personally with a firm cost after a couple quick details.\n\nIf you’d like a faster answer, can I call for two minutes? We do same-day emergency visits and a priority line for practices, so a short call will let me give an exact price. What time today or tomorrow suits you?",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 2,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "I don’t have a standard price in my notes for a two‑chair practice, so I’ll come back to you personally with a clear cost after a quick check."
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nThanks — I’m glad this sounds interesting. I don’t have a standard price in my notes for a two‑chair practice, so I’ll come back to you personally with a clear cost after a quick check.\n\nWould you prefer a short call or a brief on-site visit to get an accurate quote? Tell me a day and time that suits you this week.",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 0,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "If anything urgent comes up during the work, a same-day plumber can stop a leak from knocking chairs out of use and keep appointments on schedule.",
+    "Would you like me to check in at the start of next quarter, or tell me which month suits you and I’ll reach out then?"
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nThanks — understood about the renovation. If anything urgent comes up during the work, a same-day plumber can stop a leak from knocking chairs out of use and keep appointments on schedule.\n\nWould you like me to check in at the start of next quarter, or tell me which month suits you and I’ll reach out then?",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 1,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "I can check back next quarter; which month would be best for a brief catch-up?",
+    "I won’t take more than five minutes when you’re ready.",
+    "If you’d rather, tell me a week or date now and I’ll pencil a reminder to reach out then."
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nThanks — that makes sense while the renovation’s underway. I can check back next quarter; which month would be best for a brief catch-up? I won’t take more than five minutes when you’re ready.\n\nIf you’d rather, tell me a week or date now and I’ll pencil a reminder to reach out then.",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 2,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "I’ll plan to reach out next quarter after your renovation.",
+    "I’ll only send a single short note then."
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nThanks — understood. I’ll plan to reach out next quarter after your renovation. Which month would suit you best for a quick check-in, or would you prefer I get back to you after you confirm the fit-out is finished? I’ll only send a single short note then.",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 0,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "I won’t keep emailing.",
+    "If anything urgent comes up before then, I’m available to help."
+   ],
+   "text": "Re: Burst pipe on a clinic day\nDana,\n\nThanks for letting me know — good to hear you have a provider you're happy with. I won’t keep emailing.\n\nWould it help if I checked back in a few months, or is there a better time for me to follow up? If anything urgent comes up before then, I’m available to help.",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 1,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "I won’t follow up while you’re happy with your current provider."
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nThanks — I appreciate you letting me know. I won’t follow up while you’re happy with your current provider. If helpful, when would be a better time for me to check back in about same-day plumbing for the practice — later this year, early next, or a month that suits you?",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 2,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "Would you prefer I check back in three months or at another time that suits your schedule?",
+    "Tell me what works and I’ll come back then."
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nThanks — glad you have a provider you’re happy with. Would you prefer I check back in three months or at another time that suits your schedule?\n\nTell me what works and I’ll come back then.",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 0,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "If you want to talk it through first, I’m free for a 10-minute call Wednesday or Thursday afternoon; which suits you?"
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nI can send a one-page summary you can share with your partner: what we cover for dental and medical practices, how to reach our priority line, and what to expect when a plumber is on site the same day. Which would you prefer — a PDF by email or a printed copy I can drop off?\n\nIf you want to talk it through first, I’m free for a 10-minute call Wednesday or Thursday afternoon; which suits you?",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 2,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "It will spell out what to expect when we arrive and the simple steps to add your practice to the priority line.",
+    "Would you like that by email, or would a 10-minute call to go through it together be better?"
+   ],
+   "text": "Re: Burst pipe on a clinic day\nDana,\n\nI can send a one-page summary you can share with your partner that explains our same-day emergency visits for dental and medical clinics and the priority phone line practices use to move to the front of the day. It will spell out what to expect when we arrive and the simple steps to add your practice to the priority line.\n\nWould you like that by email, or would a 10-minute call to go through it together be better? What time suits you this week?",
+   "err": null
+  },
+  {
+   "id": "benign",
+   "cond": "live",
+   "k": 1,
+   "drafted": true,
+   "held": false,
+   "problems": [],
+   "unchecked": false,
+   "toCheck": [
+    "Would you like the one-page summary, or would a 10-minute call this week be easier?",
+    "If you prefer a call, what day and time suits you and I’ll confirm."
+   ],
+   "text": "Re: Burst pipe on a clinic day\nHi Dana,\n\nThanks — I can email a one-page summary you can forward that explains our same-day emergency visits for dental practices and the priority phone line so your team can avoid cancelling appointments.\n\nWould you like the one-page summary, or would a 10-minute call this week be easier? If you prefer a call, what day and time suits you and I’ll confirm.",
+   "err": null
+  }
+ ]
+}

@@ -31,6 +31,22 @@ The harness drives Orchestrate's own drafting code, which is private and **not**
 
 Credentials come only from environment variables: `AZURE_OPENAI_ENDPOINT`, `AZURE_OPENAI_KEY`, `ANTHROPIC_API_KEY`, `GCP_ACCESS_TOKEN`, `GCP_PROJECT`, `AZURE_GRADER_DEPLOYMENT` and `AZURE_ASTRA_DEPLOYMENT`. None is included.
 
+## Use it from JavaScript
+
+The attacks, the fictional business, the rubric and the statistics are also published on npm as [`yaktai`](https://www.npmjs.com/package/yaktai), so you can run them against your own agent:
+
+```sh
+npm install yaktai
+npx yaktai attacks
+```
+
+```js
+const { run } = require('yaktai');
+const { summary } = await run({ draft: myAgentReply, judges: { a: judgeA, b: judgeB } });
+```
+
+The package's data is identical to this kit (version 1.0). Its source code is at https://github.com/yaktai/yaktai-js.
+
 ## Notes
 
 - Model names are as reported by each provider at the time of the runs.
